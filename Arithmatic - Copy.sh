@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "Enter three numbers to do following"
+echo "Assignment"
 echo "1)a+b*c 2)c+a/b 3)a*b+c 4)a*b+c"
 read a
 read b
